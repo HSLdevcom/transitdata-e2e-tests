@@ -1,4 +1,4 @@
-# transitdata-tests [![Run tests](https://github.com/HSLdevcom/transitdata-tests/actions/workflows/run-tests.yml/badge.svg)](https://github.com/HSLdevcom/transitdata-tests/actions/workflows/run-tests.yml)
+# transitdata-e2e-tests [![Run tests](https://github.com/HSLdevcom/transitdata-e2e-tests/actions/workflows/run-tests.yml/badge.svg)](https://github.com/HSLdevcom/transitdata-e2e-tests/actions/workflows/run-tests.yml)
 
 Repository containing E2E tests for [Transitdata](https://github.com/HSLdevcom/transitdata) implemented using [microservice-testing-tool](https://github.com/mjaakko/microservice-testing-tool).
 
@@ -8,7 +8,7 @@ Tests can be executed either by running the .jar file or the Docker container co
 
 ### Jar
 
-Download latest .jar from [releases](https://github.com/HSLdevcom/transitdata-tests/releases)
+Download latest .jar from [releases](https://github.com/HSLdevcom/transitdata-e2e-tests/releases)
 
 ```bash
 java -jar transitdata-tests.jar
